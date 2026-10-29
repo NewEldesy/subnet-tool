@@ -1,0 +1,14 @@
+# Claude Code
+CLAUDE.md
+
+# Configuration locale (credentials BDD)
+config.php
+
+# Logs et cache PHP
+*.log
+*.cache
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
